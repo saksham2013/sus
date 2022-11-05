@@ -1,6 +1,7 @@
 <!DOCTYPE html>
  <html>
   <head>
+     <link href="homework-style.css" rel="stylesheet" type="text/css" />
    <title>HTML VS CSS</title>
    </head>
    <body>
