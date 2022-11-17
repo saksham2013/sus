@@ -5,7 +5,7 @@ body {
 	margin: 0;
 }
 
-/* This is just for ID header */
+/* This is just for ID header/*
 #header {
 	background-color: blue;
 	color: white;
@@ -18,14 +18,14 @@ body {
 	padding: 10px 0;
 }
 
-/* This is for Heading 1 */
+/* This is for Heading 1 */n
 h1 {
 	font-size: 42px;
 }
 
 h2 {
 	font-size: 32px;
-}
+}b
 
 /* This is for class center */
 .center {
