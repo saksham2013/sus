@@ -1,0 +1,52 @@
+/* This is the way we define for all element */
+body {
+	color: black;
+	font-size: 24px;
+	margin: 0;
+}
+
+/* This is just for ID header */
+#header {
+	background-color: blue;
+	color: white;
+	padding: 50px 0;
+}
+
+#main-text {
+	background-color: black;
+	color: gold;
+	padding: 10px 0;
+}
+
+/* This is for Heading 1 */
+h1 {
+	font-size: 42px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+/* This is for class center */
+.center {
+	text-align: center;
+}
+
+.content {
+	margin-left: 50px;
+	width: 60%;
+	float: left;
+}
+
+.sidebar {
+	width: 30%;
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+
+.sidebar img {
+	max-width: 100%;
+}
+
+
