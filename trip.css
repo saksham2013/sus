@@ -1,6 +1,10 @@
 body {
   font-size: 22px;
   color: black;
+  marign: 0 auto;
+  padding: 40px;
+  width: 1024px;
+  
 }
 
 h1 {
